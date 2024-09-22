@@ -8,7 +8,7 @@
 {
     height: 400px;
     width: 400px;
-    border-radius: 3px;
+    border-radius: 6px;
     padding: 20px;
     background-color: #000036;
 }
@@ -18,7 +18,13 @@
     border-radius: 0;
     transform: translateY(-3px);
 }
+.taskButton:hover
+{
+    background-color: #6e20cd; 
+}
 #addTask
 {
     height: 38px;
+    border: 1px solid #8a32f5;
+    background-color: inherit;
 }
