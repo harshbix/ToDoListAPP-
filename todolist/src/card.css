@@ -27,3 +27,15 @@
     border: 1px solid #8a32f5;
     background-color: inherit;
 }
+.item
+{
+    background-color: #8a32f5;
+    padding: 8px;
+    border-radius: 3px;
+    display: grid;
+    grid-template-columns: 8fr 1fr 1fr;
+}
+.item span
+{
+    margin-top: 8px;
+}
