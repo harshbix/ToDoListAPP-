@@ -10,4 +10,15 @@
     width: 400px;
     border-radius: 3px;
     padding: 20px;
+    background-color: #000036;
+}
+.taskButton
+{
+    background-color: #8a32f5;
+    border-radius: 0;
+    transform: translateY(-3px);
+}
+#addTask
+{
+    height: 38px;
 }
