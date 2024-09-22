@@ -1,8 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.css';
+import Card from './components/Card';
 const App = () => {
   return (
-    <div>
-      <h1>Hi Mom!</h1>
+    <div className='container box-parent'>
+      <Card />
     </div>
   )
 }

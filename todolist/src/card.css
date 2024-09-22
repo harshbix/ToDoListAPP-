@@ -1,0 +1,13 @@
+.box-parent
+{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+.box
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 3px;
+    padding: 20px;
+}
