@@ -1,6 +1,9 @@
+import 'bootstrap/dist/css/bootstrap.css';
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1>Hi Mom!</h1>
+    </div>
   )
 }
 
