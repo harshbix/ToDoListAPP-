@@ -21,7 +21,7 @@ const EditTask = ({ taskName, onDelete, onUpdate }: Props) => {
   };
 
   return (
-    <div className="text-white">
+    <div className="text-white mb-2">
       <div className="item ps-3">
         {isEditing ? (
           <>
