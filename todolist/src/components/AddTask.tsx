@@ -32,7 +32,7 @@ const AddTask = () => {
           name="addTask"
           id="addTask"
           placeholder="What is the task Today?"
-          className="w-75 p-3 text-white"
+          className="w-md-75 p-3 text-white"
           value={value} // Controlled input
           onChange={(e) => setValue(e.target.value)}
         />
